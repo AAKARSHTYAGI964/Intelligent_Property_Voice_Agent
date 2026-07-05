@@ -122,12 +122,6 @@ Once the application starts, it will:
 
 ---
 
-# 🏗 System Architecture
-
-![System Architecture](docs/mermaid-diagram.png)
-
----
-
 # 🛠 Technology Stack
 
 ### Telephony
